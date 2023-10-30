@@ -22,10 +22,17 @@
         "state": "Ontario",
         "city": "Ontario"
       },
-      "extras": ["extraBreakfast", "extraWiFi"],
+      "extras": [
+        "extraBreakfast",
+        "extraWiFi"
+      ],
       "payment": "Paypal",
       "note": "lab test",
-      "tags": ["hotel", "booking", "asdf"],
+      "tags": [
+        "hotel",
+        "booking",
+        "asdf"
+      ],
       "reminder": false,
       "newsletter": false,
       "confirm": true,
@@ -53,10 +60,17 @@
         "state": "California",
         "city": "Los Angeles"
       },
-      "extras": ["extraBreakfast", "extraTV", "extraParking"],
+      "extras": [
+        "extraBreakfast",
+        "extraTV",
+        "extraParking"
+      ],
       "payment": "Credit Card",
       "note": "Quiet room, please",
-      "tags": ["Vacation", "Relaxation"],
+      "tags": [
+        "Vacation",
+        "Relaxation"
+      ],
       "reminder": true,
       "newsletter": true,
       "confirm": true,
@@ -84,10 +98,17 @@
         "state": "Illinois",
         "city": "Chicago"
       },
-      "extras": ["extraBreakfast", "extraWiFi", "extraParking"],
+      "extras": [
+        "extraBreakfast",
+        "extraWiFi",
+        "extraParking"
+      ],
       "payment": "Bitcoin",
       "note": "Celebrating anniversary",
-      "tags": ["Anniversary", "Romantic"],
+      "tags": [
+        "Anniversary",
+        "Romantic"
+      ],
       "reminder": false,
       "newsletter": false,
       "confirm": true,
@@ -115,45 +136,20 @@
         "state": "Georgia",
         "city": "Atlanta"
       },
-      "extras": ["Gym Access", "Late Checkout"],
+      "extras": [
+        "Gym Access",
+        "Late Checkout"
+      ],
       "payment": "Credit Card",
       "note": "Early check-in requested",
-      "tags": ["Business Trip", "Atlanta"],
+      "tags": [
+        "Business Trip",
+        "Atlanta"
+      ],
       "reminder": true,
       "newsletter": false,
       "confirm": true,
       "id": 4
-    },
-    {
-      "stay": {
-        "arrivalDate": "2023-11-25",
-        "departureDate": "2023-11-29"
-      },
-      "room": {
-        "roomSize": "Family Suite",
-        "roomQuantity": 2
-      },
-      "firstName": "David",
-      "lastName": "Brown",
-      "email": "david.brown@example.com",
-      "phone": "+9876543210",
-      "addressStreet": {
-        "streetName": "Oak Road",
-        "streetNumber": "123"
-      },
-      "addressLocation": {
-        "zipCode": "75201",
-        "state": "Texas",
-        "city": "Dallas"
-      },
-      "extras": ["Kids' Playroom", "Complimentary Breakfast"],
-      "payment": "Bitcoin",
-      "note": "High floor with a view",
-      "tags": ["Family Vacation", "Dallas Trip"],
-      "reminder": true,
-      "newsletter": true,
-      "confirm": true,
-      "id": 5
     }
   ]
 }
